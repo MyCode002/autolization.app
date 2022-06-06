@@ -1,0 +1,52 @@
+[
+    {
+        "userId": 1,
+        "username": "Jasurbek",
+        "password": "038f270ca678c66f5bf393f958e8eebcf98b049e5a0d32a69cabf46b576cabbf"
+    },
+    {
+        "userId": 2,
+        "username": "Jasur",
+        "password": "2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824"
+    },
+    {
+        "userId": 3,
+        "password": "b6ef61e3306f06f6eb70d858d5a63f0ed0f6ca5eda2ffee082d1d137026394dd",
+        "username": "Jasurbek"
+    },
+    {
+        "userId": 4,
+        "password": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225",
+        "username": "axror"
+    },
+    {
+        "userId": 5,
+        "password": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225",
+        "username": "axror"
+    },
+    {
+        "userId": 6,
+        "password": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225",
+        "username": "axror"
+    },
+    {
+        "userId": 7,
+        "password": "594a2a7f5b6a04a5d33d1d5813fb3bf0690eef4f061d3594ec94d6d017af8698",
+        "username": "axror"
+    },
+    {
+        "userId": 8,
+        "password": "594a2a7f5b6a04a5d33d1d5813fb3bf0690eef4f061d3594ec94d6d017af8698",
+        "username": "axror"
+    },
+    {
+        "userId": 9,
+        "username": "salim",
+        "password": "594a2a7f5b6a04a5d33d1d5813fb3bf0690eef4f061d3594ec94d6d017af8698"
+    },
+    {
+        "userId": 10,
+        "username": "salim",
+        "password": "594a2a7f5b6a04a5d33d1d5813fb3bf0690eef4f061d3594ec94d6d017af8698"
+    }
+]
